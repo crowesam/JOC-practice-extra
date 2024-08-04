@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daf1fb73-4979-40ec-ab6f-3b291834c2b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PracticeTuringFile.py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstTuring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turing.txt" afterDir="false" />
-    </list>
+    <list default="true" id="daf1fb73-4979-40ec-ab6f-3b291834c2b7" name="Changes" comment="Practice with initial turing text" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.firstTuring.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -63,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722744506902</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practice with initial turing text">
+      <option name="closed" value="true" />
+      <created>1722753616355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722753616355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice with initial turing text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice with initial turing text" />
   </component>
 </project>
